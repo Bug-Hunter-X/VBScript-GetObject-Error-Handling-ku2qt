@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript's GetObject function and provides a more robust solution. The `bug.vbs` file shows how using `On Error Resume Next` can lead to unexpected behavior, while `bugSolution.vbs` offers an improved error-handling approach.
